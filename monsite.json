@@ -1,6 +1,6 @@
 {
 	"hue": "20",
-	"isMode": false,
+	"isMode": true,
 	"min_count": "1",
 	"max_count": 3,
 	"minsocial_count": "1",
